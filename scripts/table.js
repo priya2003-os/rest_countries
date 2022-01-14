@@ -6,14 +6,13 @@ async function fetchTable() {
 
     let contents = "";
     for (const data of datas) {
-        const numberFormatArea = (new Intl.NumberFormat("en-EN").format(data.area));
-        const numberFormatPop = (new Intl.NumberFormat("en-EN").format(data.population));
+        const numberFormat = new Intl.NumberFormat("en-GB");
 
         contents +=
             `<tr>
                 <th class="text-nowrap ">${data.name.official}</th>
-                <td>${numberFormatArea}</td>
-                <td>${numberFormatPop}</td>
+                <td>${numberFormat.format(data.area)}</td>
+                <td>${numberFormat.format(data.population)}</td>
                 <td class="text-nowrap ">${data.capital}</td>
             </tr>`;
     };
