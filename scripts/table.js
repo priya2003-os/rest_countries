@@ -11,8 +11,8 @@ async function fetchTable() {
         contents +=
             `<tr>
                 <th class="text-nowrap ">${data.name.official}</th>
-                <td>${numberFormat.format(data.area)}</td>
-                <td>${numberFormat.format(data.population)}</td>
+                <td class="text-end">${numberFormat.format(data.area)}</td>
+                <td class="text-end">${numberFormat.format(data.population)}</td>
                 <td class="text-nowrap ">${data.capital}</td>
             </tr>`;
     };
@@ -23,4 +23,4 @@ async function fetchTable() {
 }
 
 
-window.addEventListener('load', fetchTable());
+window.addEventListener('load', fetchTable(), { once: true });
