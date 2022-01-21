@@ -1,5 +1,5 @@
 async function render() {
-    const response = await fetch('https://restcountries.com/v3.1/region/europe/?fields=name,capital,flags,latlng,maps');
+    const response = await fetch('https://restcountries.com/v3.1/region/europe/?fields=name,capital,flags,maps');
     const cards = await response.json();
 
     let content = "";

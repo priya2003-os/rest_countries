@@ -1,0 +1,1162 @@
+[
+    {
+        "name": {
+            "common": "Slovakia",
+            "official": "Slovak Republic",
+            "nativeName": {
+                "slk": {
+                    "official": "Slovenská republika",
+                    "common": "Slovensko"
+                }
+            }
+        },
+        "cca2": "SK",
+        "capital": [
+            "Bratislava"
+        ],
+        "latlng": [
+            48.66666666,
+            19.5
+        ]
+    },
+    {
+        "name": {
+            "common": "North Macedonia",
+            "official": "Republic of North Macedonia",
+            "nativeName": {
+                "mkd": {
+                    "official": "Република Северна Македонија",
+                    "common": "Македонија"
+                }
+            }
+        },
+        "cca2": "MK",
+        "capital": [
+            "Skopje"
+        ],
+        "latlng": [
+            41.83333333,
+            22.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Åland Islands",
+            "official": "Åland Islands",
+            "nativeName": {
+                "swe": {
+                    "official": "Landskapet Åland",
+                    "common": "Åland"
+                }
+            }
+        },
+        "cca2": "AX",
+        "capital": [
+            "Mariehamn"
+        ],
+        "latlng": [
+            60.116667,
+            19.9
+        ]
+    },
+    {
+        "name": {
+            "common": "Spain",
+            "official": "Kingdom of Spain",
+            "nativeName": {
+                "spa": {
+                    "official": "Reino de España",
+                    "common": "España"
+                }
+            }
+        },
+        "cca2": "ES",
+        "capital": [
+            "Madrid"
+        ],
+        "latlng": [
+            40.0,
+            -4.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Finland",
+            "official": "Republic of Finland",
+            "nativeName": {
+                "fin": {
+                    "official": "Suomen tasavalta",
+                    "common": "Suomi"
+                },
+                "swe": {
+                    "official": "Republiken Finland",
+                    "common": "Finland"
+                }
+            }
+        },
+        "cca2": "FI",
+        "capital": [
+            "Helsinki"
+        ],
+        "latlng": [
+            64.0,
+            26.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Albania",
+            "official": "Republic of Albania",
+            "nativeName": {
+                "sqi": {
+                    "official": "Republika e Shqipërisë",
+                    "common": "Shqipëria"
+                }
+            }
+        },
+        "cca2": "AL",
+        "capital": [
+            "Tirana"
+        ],
+        "latlng": [
+            41.0,
+            20.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Estonia",
+            "official": "Republic of Estonia",
+            "nativeName": {
+                "est": {
+                    "official": "Eesti Vabariik",
+                    "common": "Eesti"
+                }
+            }
+        },
+        "cca2": "EE",
+        "capital": [
+            "Tallinn"
+        ],
+        "latlng": [
+            59.0,
+            26.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Guernsey",
+            "official": "Bailiwick of Guernsey",
+            "nativeName": {
+                "eng": {
+                    "official": "Bailiwick of Guernsey",
+                    "common": "Guernsey"
+                },
+                "fra": {
+                    "official": "Bailliage de Guernesey",
+                    "common": "Guernesey"
+                },
+                "nfr": {
+                    "official": "Dgèrnésiais",
+                    "common": "Dgèrnésiais"
+                }
+            }
+        },
+        "cca2": "GG",
+        "capital": [
+            "St. Peter Port"
+        ],
+        "latlng": [
+            49.46666666,
+            -2.58333333
+        ]
+    },
+    {
+        "name": {
+            "common": "Kosovo",
+            "official": "Republic of Kosovo",
+            "nativeName": {
+                "sqi": {
+                    "official": "Republika e Kosovës",
+                    "common": "Kosova"
+                },
+                "srp": {
+                    "official": "Република Косово",
+                    "common": "Косово"
+                }
+            }
+        },
+        "cca2": "XK",
+        "capital": [
+            "Pristina"
+        ],
+        "latlng": [
+            42.666667,
+            21.166667
+        ]
+    },
+    {
+        "name": {
+            "common": "Germany",
+            "official": "Federal Republic of Germany",
+            "nativeName": {
+                "deu": {
+                    "official": "Bundesrepublik Deutschland",
+                    "common": "Deutschland"
+                }
+            }
+        },
+        "cca2": "DE",
+        "capital": [
+            "Berlin"
+        ],
+        "latlng": [
+            51.0,
+            9.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Cyprus",
+            "official": "Republic of Cyprus",
+            "nativeName": {
+                "ell": {
+                    "official": "Δημοκρατία της Κύπρος",
+                    "common": "Κύπρος"
+                },
+                "tur": {
+                    "official": "Kıbrıs Cumhuriyeti",
+                    "common": "Kıbrıs"
+                }
+            }
+        },
+        "cca2": "CY",
+        "capital": [
+            "Nicosia"
+        ],
+        "latlng": [
+            35.0,
+            33.0
+        ]
+    },
+    {
+        "name": {
+            "common": "France",
+            "official": "French Republic",
+            "nativeName": {
+                "fra": {
+                    "official": "République française",
+                    "common": "France"
+                }
+            }
+        },
+        "cca2": "FR",
+        "capital": [
+            "Paris"
+        ],
+        "latlng": [
+            46.0,
+            2.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Montenegro",
+            "official": "Montenegro",
+            "nativeName": {
+                "cnr": {
+                    "official": "Црна Гора",
+                    "common": "Црна Гора"
+                }
+            }
+        },
+        "cca2": "ME",
+        "capital": [
+            "Podgorica"
+        ],
+        "latlng": [
+            42.5,
+            19.3
+        ]
+    },
+    {
+        "name": {
+            "common": "Portugal",
+            "official": "Portuguese Republic",
+            "nativeName": {
+                "por": {
+                    "official": "República português",
+                    "common": "Portugal"
+                }
+            }
+        },
+        "cca2": "PT",
+        "capital": [
+            "Lisbon"
+        ],
+        "latlng": [
+            39.5,
+            -8.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Iceland",
+            "official": "Iceland",
+            "nativeName": {
+                "isl": {
+                    "official": "Ísland",
+                    "common": "Ísland"
+                }
+            }
+        },
+        "cca2": "IS",
+        "capital": [
+            "Reykjavik"
+        ],
+        "latlng": [
+            65.0,
+            -18.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Switzerland",
+            "official": "Swiss Confederation",
+            "nativeName": {
+                "fra": {
+                    "official": "Confédération suisse",
+                    "common": "Suisse"
+                },
+                "gsw": {
+                    "official": "Schweizerische Eidgenossenschaft",
+                    "common": "Schweiz"
+                },
+                "ita": {
+                    "official": "Confederazione Svizzera",
+                    "common": "Svizzera"
+                },
+                "roh": {
+                    "official": "Confederaziun svizra",
+                    "common": "Svizra"
+                }
+            }
+        },
+        "cca2": "CH",
+        "capital": [
+            "Bern"
+        ],
+        "latlng": [
+            47.0,
+            8.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Slovenia",
+            "official": "Republic of Slovenia",
+            "nativeName": {
+                "slv": {
+                    "official": "Republika Slovenija",
+                    "common": "Slovenija"
+                }
+            }
+        },
+        "cca2": "SI",
+        "capital": [
+            "Ljubljana"
+        ],
+        "latlng": [
+            46.11666666,
+            14.81666666
+        ]
+    },
+    {
+        "name": {
+            "common": "Ukraine",
+            "official": "Ukraine",
+            "nativeName": {
+                "ukr": {
+                    "official": "Україна",
+                    "common": "Україна"
+                }
+            }
+        },
+        "cca2": "UA",
+        "capital": [
+            "Kyiv"
+        ],
+        "latlng": [
+            49.0,
+            32.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Poland",
+            "official": "Republic of Poland",
+            "nativeName": {
+                "pol": {
+                    "official": "Rzeczpospolita Polska",
+                    "common": "Polska"
+                }
+            }
+        },
+        "cca2": "PL",
+        "capital": [
+            "Warsaw"
+        ],
+        "latlng": [
+            52.0,
+            20.0
+        ]
+    },
+    {
+        "name": {
+            "common": "United Kingdom",
+            "official": "United Kingdom of Great Britain and Northern Ireland",
+            "nativeName": {
+                "eng": {
+                    "official": "United Kingdom of Great Britain and Northern Ireland",
+                    "common": "United Kingdom"
+                }
+            }
+        },
+        "cca2": "GB",
+        "capital": [
+            "London"
+        ],
+        "latlng": [
+            54.0,
+            -2.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Russia",
+            "official": "Russian Federation",
+            "nativeName": {
+                "rus": {
+                    "official": "Российская Федерация",
+                    "common": "Россия"
+                }
+            }
+        },
+        "cca2": "RU",
+        "capital": [
+            "Moscow"
+        ],
+        "latlng": [
+            60.0,
+            100.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Norway",
+            "official": "Kingdom of Norway",
+            "nativeName": {
+                "nno": {
+                    "official": "Kongeriket Noreg",
+                    "common": "Noreg"
+                },
+                "nob": {
+                    "official": "Kongeriket Norge",
+                    "common": "Norge"
+                },
+                "smi": {
+                    "official": "Norgga gonagasriika",
+                    "common": "Norgga"
+                }
+            }
+        },
+        "cca2": "NO",
+        "capital": [
+            "Oslo"
+        ],
+        "latlng": [
+            62.0,
+            10.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Denmark",
+            "official": "Kingdom of Denmark",
+            "nativeName": {
+                "dan": {
+                    "official": "Kongeriget Danmark",
+                    "common": "Danmark"
+                }
+            }
+        },
+        "cca2": "DK",
+        "capital": [
+            "Copenhagen"
+        ],
+        "latlng": [
+            56.0,
+            10.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Croatia",
+            "official": "Republic of Croatia",
+            "nativeName": {
+                "hrv": {
+                    "official": "Republika Hrvatska",
+                    "common": "Hrvatska"
+                }
+            }
+        },
+        "cca2": "HR",
+        "capital": [
+            "Zagreb"
+        ],
+        "latlng": [
+            45.16666666,
+            15.5
+        ]
+    },
+    {
+        "name": {
+            "common": "Faroe Islands",
+            "official": "Faroe Islands",
+            "nativeName": {
+                "dan": {
+                    "official": "Færøerne",
+                    "common": "Færøerne"
+                },
+                "fao": {
+                    "official": "Føroyar",
+                    "common": "Føroyar"
+                }
+            }
+        },
+        "cca2": "FO",
+        "capital": [
+            "Tórshavn"
+        ],
+        "latlng": [
+            62.0,
+            -7.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Latvia",
+            "official": "Republic of Latvia",
+            "nativeName": {
+                "lav": {
+                    "official": "Latvijas Republikas",
+                    "common": "Latvija"
+                }
+            }
+        },
+        "cca2": "LV",
+        "capital": [
+            "Riga"
+        ],
+        "latlng": [
+            57.0,
+            25.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Malta",
+            "official": "Republic of Malta",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Malta",
+                    "common": "Malta"
+                },
+                "mlt": {
+                    "official": "Repubblika ta ' Malta",
+                    "common": "Malta"
+                }
+            }
+        },
+        "cca2": "MT",
+        "capital": [
+            "Valletta"
+        ],
+        "latlng": [
+            35.83333333,
+            14.58333333
+        ]
+    },
+    {
+        "name": {
+            "common": "Netherlands",
+            "official": "Kingdom of the Netherlands",
+            "nativeName": {
+                "nld": {
+                    "official": "Koninkrijk der Nederlanden",
+                    "common": "Nederland"
+                }
+            }
+        },
+        "cca2": "NL",
+        "capital": [
+            "Amsterdam"
+        ],
+        "latlng": [
+            52.5,
+            5.75
+        ]
+    },
+    {
+        "name": {
+            "common": "Moldova",
+            "official": "Republic of Moldova",
+            "nativeName": {
+                "ron": {
+                    "official": "Republica Moldova",
+                    "common": "Moldova"
+                }
+            }
+        },
+        "cca2": "MD",
+        "capital": [
+            "Chișinău"
+        ],
+        "latlng": [
+            47.0,
+            29.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Bosnia and Herzegovina",
+            "official": "Bosnia and Herzegovina",
+            "nativeName": {
+                "bos": {
+                    "official": "Bosna i Hercegovina",
+                    "common": "Bosna i Hercegovina"
+                },
+                "hrv": {
+                    "official": "Bosna i Hercegovina",
+                    "common": "Bosna i Hercegovina"
+                },
+                "srp": {
+                    "official": "Боснa и Херцеговина",
+                    "common": "Боснa и Херцеговина"
+                }
+            }
+        },
+        "cca2": "BA",
+        "capital": [
+            "Sarajevo"
+        ],
+        "latlng": [
+            44.0,
+            18.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Czechia",
+            "official": "Czech Republic",
+            "nativeName": {
+                "ces": {
+                    "official": "Česká republika",
+                    "common": "Česko"
+                },
+                "slk": {
+                    "official": "Česká republika",
+                    "common": "Česko"
+                }
+            }
+        },
+        "cca2": "CZ",
+        "capital": [
+            "Prague"
+        ],
+        "latlng": [
+            49.75,
+            15.5
+        ]
+    },
+    {
+        "name": {
+            "common": "Ireland",
+            "official": "Republic of Ireland",
+            "nativeName": {
+                "eng": {
+                    "official": "Republic of Ireland",
+                    "common": "Ireland"
+                },
+                "gle": {
+                    "official": "Poblacht na hÉireann",
+                    "common": "Éire"
+                }
+            }
+        },
+        "cca2": "IE",
+        "capital": [
+            "Dublin"
+        ],
+        "latlng": [
+            53.0,
+            -8.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Luxembourg",
+            "official": "Grand Duchy of Luxembourg",
+            "nativeName": {
+                "deu": {
+                    "official": "Großherzogtum Luxemburg",
+                    "common": "Luxemburg"
+                },
+                "fra": {
+                    "official": "Grand-Duché de Luxembourg",
+                    "common": "Luxembourg"
+                },
+                "ltz": {
+                    "official": "Groussherzogtum Lëtzebuerg",
+                    "common": "Lëtzebuerg"
+                }
+            }
+        },
+        "cca2": "LU",
+        "capital": [
+            "Luxembourg"
+        ],
+        "latlng": [
+            49.75,
+            6.16666666
+        ]
+    },
+    {
+        "name": {
+            "common": "San Marino",
+            "official": "Republic of San Marino",
+            "nativeName": {
+                "ita": {
+                    "official": "Repubblica di San Marino",
+                    "common": "San Marino"
+                }
+            }
+        },
+        "cca2": "SM",
+        "capital": [
+            "City of San Marino"
+        ],
+        "latlng": [
+            43.76666666,
+            12.41666666
+        ]
+    },
+    {
+        "name": {
+            "common": "Lithuania",
+            "official": "Republic of Lithuania",
+            "nativeName": {
+                "lit": {
+                    "official": "Lietuvos Respublikos",
+                    "common": "Lietuva"
+                }
+            }
+        },
+        "cca2": "LT",
+        "capital": [
+            "Vilnius"
+        ],
+        "latlng": [
+            56.0,
+            24.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Isle of Man",
+            "official": "Isle of Man",
+            "nativeName": {
+                "eng": {
+                    "official": "Isle of Man",
+                    "common": "Isle of Man"
+                },
+                "glv": {
+                    "official": "Ellan Vannin or Mannin",
+                    "common": "Mannin"
+                }
+            }
+        },
+        "cca2": "IM",
+        "capital": [
+            "Douglas"
+        ],
+        "latlng": [
+            54.25,
+            -4.5
+        ]
+    },
+    {
+        "name": {
+            "common": "Monaco",
+            "official": "Principality of Monaco",
+            "nativeName": {
+                "fra": {
+                    "official": "Principauté de Monaco",
+                    "common": "Monaco"
+                }
+            }
+        },
+        "cca2": "MC",
+        "capital": [
+            "Monaco"
+        ],
+        "latlng": [
+            43.73333333,
+            7.4
+        ]
+    },
+    {
+        "name": {
+            "common": "Greece",
+            "official": "Hellenic Republic",
+            "nativeName": {
+                "ell": {
+                    "official": "Ελληνική Δημοκρατία",
+                    "common": "Ελλάδα"
+                }
+            }
+        },
+        "cca2": "GR",
+        "capital": [
+            "Athens"
+        ],
+        "latlng": [
+            39.0,
+            22.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Gibraltar",
+            "official": "Gibraltar",
+            "nativeName": {
+                "eng": {
+                    "official": "Gibraltar",
+                    "common": "Gibraltar"
+                }
+            }
+        },
+        "cca2": "GI",
+        "capital": [
+            "Gibraltar"
+        ],
+        "latlng": [
+            36.13333333,
+            -5.35
+        ]
+    },
+    {
+        "name": {
+            "common": "Bulgaria",
+            "official": "Republic of Bulgaria",
+            "nativeName": {
+                "bul": {
+                    "official": "Република България",
+                    "common": "България"
+                }
+            }
+        },
+        "cca2": "BG",
+        "capital": [
+            "Sofia"
+        ],
+        "latlng": [
+            43.0,
+            25.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Hungary",
+            "official": "Hungary",
+            "nativeName": {
+                "hun": {
+                    "official": "Magyarország",
+                    "common": "Magyarország"
+                }
+            }
+        },
+        "cca2": "HU",
+        "capital": [
+            "Budapest"
+        ],
+        "latlng": [
+            47.0,
+            20.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Belgium",
+            "official": "Kingdom of Belgium",
+            "nativeName": {
+                "deu": {
+                    "official": "Königreich Belgien",
+                    "common": "Belgien"
+                },
+                "fra": {
+                    "official": "Royaume de Belgique",
+                    "common": "Belgique"
+                },
+                "nld": {
+                    "official": "Koninkrijk België",
+                    "common": "België"
+                }
+            }
+        },
+        "cca2": "BE",
+        "capital": [
+            "Brussels"
+        ],
+        "latlng": [
+            50.83333333,
+            4.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Liechtenstein",
+            "official": "Principality of Liechtenstein",
+            "nativeName": {
+                "deu": {
+                    "official": "Fürstentum Liechtenstein",
+                    "common": "Liechtenstein"
+                }
+            }
+        },
+        "cca2": "LI",
+        "capital": [
+            "Vaduz"
+        ],
+        "latlng": [
+            47.26666666,
+            9.53333333
+        ]
+    },
+    {
+        "name": {
+            "common": "Romania",
+            "official": "Romania",
+            "nativeName": {
+                "ron": {
+                    "official": "România",
+                    "common": "România"
+                }
+            }
+        },
+        "cca2": "RO",
+        "capital": [
+            "Bucharest"
+        ],
+        "latlng": [
+            46.0,
+            25.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Vatican City",
+            "official": "Vatican City State",
+            "nativeName": {
+                "ita": {
+                    "official": "Stato della Città del Vaticano",
+                    "common": "Vaticano"
+                },
+                "lat": {
+                    "official": "Status Civitatis Vaticanæ",
+                    "common": "Vaticanæ"
+                }
+            }
+        },
+        "cca2": "VA",
+        "capital": [
+            "Vatican City"
+        ],
+        "latlng": [
+            41.9,
+            12.45
+        ]
+    },
+    {
+        "name": {
+            "common": "Andorra",
+            "official": "Principality of Andorra",
+            "nativeName": {
+                "cat": {
+                    "official": "Principat d'Andorra",
+                    "common": "Andorra"
+                }
+            }
+        },
+        "cca2": "AD",
+        "capital": [
+            "Andorra la Vella"
+        ],
+        "latlng": [
+            42.5,
+            1.5
+        ]
+    },
+    {
+        "name": {
+            "common": "Svalbard and Jan Mayen",
+            "official": "Svalbard og Jan Mayen",
+            "nativeName": {
+                "nor": {
+                    "official": "Svalbard og Jan Mayen",
+                    "common": "Svalbard og Jan Mayen"
+                }
+            }
+        },
+        "cca2": "SJ",
+        "capital": [
+            "Longyearbyen"
+        ],
+        "latlng": [
+            78.0,
+            20.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Belarus",
+            "official": "Republic of Belarus",
+            "nativeName": {
+                "bel": {
+                    "official": "Рэспубліка Беларусь",
+                    "common": "Белару́сь"
+                },
+                "rus": {
+                    "official": "Республика Беларусь",
+                    "common": "Беларусь"
+                }
+            }
+        },
+        "cca2": "BY",
+        "capital": [
+            "Minsk"
+        ],
+        "latlng": [
+            53.0,
+            28.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Serbia",
+            "official": "Republic of Serbia",
+            "nativeName": {
+                "srp": {
+                    "official": "Република Србија",
+                    "common": "Србија"
+                }
+            }
+        },
+        "cca2": "RS",
+        "capital": [
+            "Belgrade"
+        ],
+        "latlng": [
+            44.0,
+            21.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Jersey",
+            "official": "Bailiwick of Jersey",
+            "nativeName": {
+                "eng": {
+                    "official": "Bailiwick of Jersey",
+                    "common": "Jersey"
+                },
+                "fra": {
+                    "official": "Bailliage de Jersey",
+                    "common": "Jersey"
+                },
+                "nrf": {
+                    "official": "Bailliage dé Jèrri",
+                    "common": "Jèrri"
+                }
+            }
+        },
+        "cca2": "JE",
+        "capital": [
+            "Saint Helier"
+        ],
+        "latlng": [
+            49.25,
+            -2.16666666
+        ]
+    },
+    {
+        "name": {
+            "common": "Sweden",
+            "official": "Kingdom of Sweden",
+            "nativeName": {
+                "swe": {
+                    "official": "Konungariket Sverige",
+                    "common": "Sverige"
+                }
+            }
+        },
+        "cca2": "SE",
+        "capital": [
+            "Stockholm"
+        ],
+        "latlng": [
+            62.0,
+            15.0
+        ]
+    },
+    {
+        "name": {
+            "common": "Italy",
+            "official": "Italian Republic",
+            "nativeName": {
+                "ita": {
+                    "official": "Repubblica italiana",
+                    "common": "Italia"
+                }
+            }
+        },
+        "cca2": "IT",
+        "capital": [
+            "Rome"
+        ],
+        "latlng": [
+            42.83333333,
+            12.83333333
+        ]
+    },
+    {
+        "name": {
+            "common": "Austria",
+            "official": "Republic of Austria",
+            "nativeName": {
+                "bar": {
+                    "official": "Republik Österreich",
+                    "common": "Österreich"
+                }
+            }
+        },
+        "cca2": "AT",
+        "capital": [
+            "Vienna"
+        ],
+        "latlng": [
+            47.33333333,
+            13.33333333
+        ]
+    }
+]
