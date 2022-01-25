@@ -58,16 +58,17 @@
     <main class="container-xl mb-4">
 
         <h2>Eu - Geolocation</h2>
-
-        <div class="container" id="map">
-            <label for="countrySelect">Select Country</label>
-            <select onchange="change(this.value);" name="countryList" id="countrySelect">
-            </select>
-
-            <iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC-psA1diyTHzfueedcPfB1-EAVzBhobGg
+        <div>
+            <div class="container" id="map">
+                <label class="form-label" for="countrySelect">Select Country</label>
+                <select class="form-select" onchange="" name="countryList" id="countrySelect">
+                </select>
+            </div>
+            <div>
+                <iframe id="frame" width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC-psA1diyTHzfueedcPfB1-EAVzBhobGg
                 &q=Space+Needle,Seattle+WA">
-            </iframe>
-
+                </iframe>
+            </div>
 
 
 
